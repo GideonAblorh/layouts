@@ -1,0 +1,100 @@
+.firstleft {
+	border: 2px solid black;
+	height: 50px;
+}
+.secondright {
+	border: 2px solid black; 
+	height: 50px;
+}
+
+.next {
+	border: 2px solid black;
+	height: 70px; 
+}
+#top {
+	color: red;
+}
+
+#one {
+	margin-top: 20px;
+}
+
+.left{
+	border: 2px solid black;
+	height: 450px;
+}
+
+.do{
+	border: 2px solid black;
+	height: 100px;
+
+}
+
+.right{
+	border: 2px solid black;
+	height: 450px;
+}
+
+.push{
+	border: 2px solid black;
+	height: 100px;
+}
+
+.dew{
+	border: 2px solid black;
+	height: 100px;
+}
+
+.coco{
+	border: 3px solid green;
+	height: 80px;
+}
+
+.free{
+	border: 3px solid blue;
+	height: 500px;
+	margin-right: 1px;
+	margin-left: 1px;
+}
+
+.footer{
+	border: 3px solid red;
+	height: 60px;
+}
+
+.away{
+	border: 3px solid brown;
+	height: 60px;
+}
+
+.give{
+	border: 3px solid pink;
+	height: 450px;
+	border-spacing: 4px;
+}
+
+.down{
+	border: 3px solid brown;
+	height: 60px;
+	text-align: center;
+}
+
+h3{
+	margin-top: 200px;
+	text-align: center;
+
+}
+
+.h4{
+	margin-top: 20px;
+}
+
+.h5{
+	margin-top: 35px;
+	padding: 30px;
+}
+
+.end{
+	border: 3px solid black;
+	height: 60px;
+}
